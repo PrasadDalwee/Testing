@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 
-
+//jajaj
 public class dbsearch 
 {
 	public boolean check(String uname, String pass)
